@@ -46,7 +46,7 @@ This project offers pre-configured [**`TiDB-Distributed NewSQL database`**](http
 
 | Image Version          | Description | Notes |
 |------------------------| --- | --- |
-| [TiDB8.5.1-arm-v1.0]() | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  |
+| [TiDB8.5.1-arm-v1.0](https://github.com/HuaweiCloudDeveloper/tidb-image/tree/TiDB8.5.1-arm-v1.0?tab=readme-ov-file) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  |
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/tidb-image/issues)
