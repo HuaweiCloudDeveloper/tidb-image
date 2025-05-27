@@ -4,38 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dc463c0-0b3d-4178-b947-7580026b6947" name="Changes" comment="README.">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/.extension/main.rfs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/datas.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/locals.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/ecs/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/ecs/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/ecs/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/ecs/versions.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/eip/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/eip/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/eip/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/eip/versions.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/security-group/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/security-group/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/security-group/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/security-group/versions.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/vpc/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/vpc/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/vpc/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/modules/vpc/versions.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/providers.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/terraform/versions.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="6dc463c0-0b3d-4178-b947-7580026b6947" name="Changes" comment="TiDB8.5.1-arm-v1.0.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +68,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="README." />
-    <option name="LAST_COMMIT_MESSAGE" value="README." />
+    <MESSAGE value="TiDB8.5.1-arm-v1.0." />
+    <option name="LAST_COMMIT_MESSAGE" value="TiDB8.5.1-arm-v1.0." />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
